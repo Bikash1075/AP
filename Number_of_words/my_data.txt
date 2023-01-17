@@ -1,0 +1,16 @@
+Details
+my name is bikash
+i am from odisha
+i am a graduate in civil engg.
+DOB:29/10/1994
+
+Experience
+Fresher
+
+Abstact
+Worked on Food ordering replica.
+Used json module for storing admin details
+User details
+Sdit item
+Show item
+Remove item
